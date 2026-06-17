@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrySettings clsid="{A3CCFC41-DFDB-43a5-8D26-0FE8B954DA51}"><Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="HideFileExt" status="HideFileExt" image="11" desc="force shows file extensions" bypassErrors="1" changed="2024-11-09 05:14:14" uid="{7B9504EC-3B17-4065-810B-5D6459CEEAAE}"><Properties action="R" displayDecimal="0" default="0" hive="HKEY_CURRENT_USER" key="Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" name="HideFileExt" type="REG_DWORD" value="00000000"/></Registry>
+</RegistrySettings>

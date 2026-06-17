@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrySettings clsid="{A3CCFC41-DFDB-43a5-8D26-0FE8B954DA51}"><Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="SafeModeBlockNonAdmins" status="SafeModeBlockNonAdmins" image="11" desc="Prevents non-admins from using safe mode options" bypassErrors="1" changed="2024-11-08 23:48:19" uid="{F85D4EE8-8A59-47C8-A4EB-E37E8BA3584F}"><Properties action="R" displayDecimal="0" default="0" hive="HKEY_LOCAL_MACHINE" key="SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" name="SafeModeBlockNonAdmins" type="REG_DWORD" value="00000001"/></Registry>
+</RegistrySettings>
